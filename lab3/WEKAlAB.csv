@@ -1,0 +1,6 @@
+TID ,A,B ,C,D
+1,YES,YES,YES,
+2,YES,YES,YES,
+3,,,,YES
+4,,YES,,
+5,YES,YES,,

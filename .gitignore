@@ -1,0 +1,4 @@
+dwdm/
+**/venv/*
+**/venv/
+*.exe
