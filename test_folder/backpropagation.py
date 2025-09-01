@@ -5,7 +5,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score,confusion_matrix,ConfusionMatrixDisplay
 
-data=pd.read_csv("Misty.csv");
+data=pd.read_csv("weather.csv");
 
 encoder=LabelEncoder()
 

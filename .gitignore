@@ -2,3 +2,6 @@ dwdm/
 **/venv/*
 **/venv/
 *.exe
+/testfolder
+testfolder
+testfolder/
